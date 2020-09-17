@@ -1,5 +1,11 @@
 /* Animated | Home Button */
 @import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Animated/home-button.css");
+
+/*Profile test*/
+.headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n {
+    background: url(https://cdn.discordapp.com/attachments/429284670228660224/755769080472010872/game.svg), linear-gradient(to top right, rgb(57, 245, 0), rgb(47, 161, 13));
+}
+
 /*Profile Modal*/
  .headerPlaying-j0WQBV, .topSectionPlaying-1J5E4n {
    z-index: 1;
